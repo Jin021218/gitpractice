@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: rgba(255, 183, 3, 0.75);
+    font-family: cursive;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+h2 {
+    color: #000000;
+    padding: 50px 0;
+    font-weight: 100;
+    font-size: 70px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+h3 {
+    color: #705454;
+    font-family: cursive;
+    font-weight: 400;
+    font-size: 50px;
+    overflow: hidden;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+button {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 0 50px;
+}
